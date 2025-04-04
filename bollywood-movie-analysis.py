@@ -77,20 +77,6 @@ movies_per_year = df['extractedYear'].value_counts().sort_index()
 hitflop_counts, sequel_counts, top_actors, top_directors, top_genres, movies_per_year
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
 
 
 
